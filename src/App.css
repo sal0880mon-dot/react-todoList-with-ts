@@ -1,0 +1,23 @@
+
+.card{
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0px 10px rgb(190, 190, 190);
+  text-align: center;
+  width: 200px;
+}
+
+.card button{
+  padding: 10px;
+  box-shadow: 0 0px 10px gainsboro;
+  background-color: transparent;
+  border: none;
+  border-radius: 10px;
+  margin: 5px;
+  width: 80px;
+}
+
+
+.card button:hover{
+  cursor: pointer;
+}
